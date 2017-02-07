@@ -7,3 +7,14 @@ c:\users\kristian lauttamus\documents\visual studio 2015\Projects\DymoMaster3000
 c:\users\kristian lauttamus\documents\visual studio 2015\Projects\DymoMaster3000\DymoMaster3000\bin\Debug\DymoMaster3000.pdb
 c:\users\kristian lauttamus\documents\visual studio 2015\Projects\DymoMaster3000\DymoMaster3000\obj\Debug\DymoMaster3000.exe
 c:\users\kristian lauttamus\documents\visual studio 2015\Projects\DymoMaster3000\DymoMaster3000\obj\Debug\DymoMaster3000.pdb
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\bin\Debug\DymoMaster3000.exe.config
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.exe
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.pdb
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\bin\Debug\DymoMaster3000.exe
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\bin\Debug\DymoMaster3000.pdb
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.DymoMaster300.resources
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.Properties.Resources.resources
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.csproj.GenerateResource.Cache
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.SerialGiver.resources
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Debug\DymoMaster3000.Information.resources

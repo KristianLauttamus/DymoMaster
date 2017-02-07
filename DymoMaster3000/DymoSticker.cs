@@ -1,4 +1,6 @@
-﻿namespace DymoMaster3000
+﻿using System;
+
+namespace DymoMaster3000
 {
     public class DymoSticker
     {
@@ -16,17 +18,29 @@
             this.secondLine = secondLine;
         }
 
-        public string toString
+        public override string ToString()
         {
-            get
+            if (secondLine.Length > 0)
             {
-                if (secondLine.Length > 0)
-                {
-                    return firstLine + "\n" + secondLine;
-                }
-
-                return firstLine;
+                return firstLine + " ; " + secondLine;
             }
+
+            return firstLine;
+        }
+
+        public bool isEmpty()
+        {
+            return this.firstLine.Trim() == "" && this.secondLine.Trim() == "";
+        }
+
+        public string toDymo()
+        {
+            if (secondLine.Length > 0)
+            {
+                return firstLine + ";" + secondLine;
+            }
+
+            return firstLine;
         }
     }
 }
