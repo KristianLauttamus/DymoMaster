@@ -8,3 +8,4 @@ C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Release\DymoMaster3000
 C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Release\DymoMaster3000.csproj.GenerateResource.Cache
 C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Release\DymoMaster3000.exe
 C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Release\DymoMaster3000.pdb
+C:\Users\IBM_ADMIN\Projects\DymoMaster\DymoMaster3000\obj\Release\DymoMaster3000.csprojResolveAssemblyReference.cache
